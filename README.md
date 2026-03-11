@@ -140,8 +140,6 @@ The Power BI dashboard contains **4 main analytical pages**.
 
 # 1️⃣ Overview Dashboard
 
-<img src="images/overview.png" width="100%">
-
 This page provides **high-level job market insights**.
 
 Key Metrics:
@@ -160,8 +158,6 @@ Insights:
 ---
 
 # 2️⃣ Location Insights
-
-<img src="images/location.png" width="100%">
 
 This section analyzes **geographic distribution of AI jobs**.
 
@@ -183,8 +179,6 @@ Cities with highest job opportunities:
 
 # 3️⃣ Company & Role Insights
 
-<img src="images/company_roles.png" width="100%">
-
 This page analyzes **company hiring patterns and job roles**.
 
 Insights:
@@ -205,8 +199,6 @@ Insights:
 ---
 
 # 4️⃣ Skill & Hiring Insights
-
-<img src="images/skills.png" width="100%">
 
 This page focuses on **skills required for AI jobs**.
 
@@ -261,19 +253,19 @@ Highest paying region:
 
 ### Overview
 
-<img src="images/AI-ML Job Analysis-1.png">
+<img src="Images/AI-ML Job Analysis-1.png">
 
 ### Location Insights
 
-<img src="images/AI-ML Job Analysis-2.png">
+<img src="Images/AI-ML Job Analysis-2.png">
 
 ### Company & Role Insights
 
-<img src="images/AI-ML Job Analysis-3.png">
+<img src="Images/AI-ML Job Analysis-3.png">
 
 ### Skill Insights
 
-<img src="images/AI-ML Job Analysis-4.png">
+<img src="Images/AI-ML Job Analysis-4.png">
 
 ---
 
