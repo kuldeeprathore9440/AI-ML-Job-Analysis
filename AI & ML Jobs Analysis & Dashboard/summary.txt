@@ -1,0 +1,7 @@
+Developed an AI & ML Jobs Market Analysis Dashboard using Power BI to analyze global job market trends in the Artificial Intelligence industry.
+The dashboard integrates datasets containing company information, job roles,
+salary data, skills, and geographic locations to generate actionable insights. 
+It visualizes key metrics such as salary distribution, hiring demand by experience level, 
+skill popularity, remote work trends, and geographic job opportunities. 
+The project demonstrates expertise in data modeling, business intelligence, 
+and interactive data visualization to uncover insights about AI career opportunities and industry demand.
